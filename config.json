@@ -1,11 +1,23 @@
 {
-  "github_url": "https://github.com/ischenyu",
+  "github_url": "https://github.com/ischenyu/",
   "dark_mode": "auto",
-  "name": "Shan Chenyu",
-  "bio": "ischenyu",
+  "name": "Paimon",
+  "bio": "High school student",
   "introduction_file": "Introduction.md",
   "theme": {
     "primary_color": "#6a11cb",
-    "secondary_color": "#2575fc"
+    "secondary_color": "#2575fc",
+    "dark_primary_color": "#a855f7",
+    "dark_secondary_color": "#60a5fa"
+  },
+  "background": {
+    "image": "background.jpg",
+    "blur": 4,
+    "overlay_opacity": 0.6,
+    "overlay_color": "#f3f4f6",
+    "dark_overlay_color": "#121212"
+  },
+  "contact": {
+    "bilibili": "https://space.bilibili.com/1918593864"
   }
 }
