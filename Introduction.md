@@ -8,12 +8,11 @@ I'm a developer passionate about coding and exploring new technologies. I enjoy 
 
 ## Tech Stack
 
+- Go
 - Python
-- JavaScript
 - HTML/CSS
 - TypeScript
-- React
-- Node.js
+- vue.js
 
 ## Projects
 
