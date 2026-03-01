@@ -1,0 +1,11 @@
+{
+  "github_url": "https://github.com/ischenyu",
+  "dark_mode": "auto",
+  "name": "Shan Chenyu",
+  "bio": "ischenyu",
+  "introduction_file": "Introduction.md",
+  "theme": {
+    "primary_color": "#6a11cb",
+    "secondary_color": "#2575fc"
+  }
+}
